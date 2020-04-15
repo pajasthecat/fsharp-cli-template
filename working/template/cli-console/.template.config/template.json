@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Pajasthecat",
+    "classifications": [ "Common", "Console", "F#" ],
+    "identity": "Cli.Console",
+    "name": "Cli template for F#",
+    "shortName": "cli-console",
+    "tags": {
+      "language": "F#",
+      "type": "project"
+    }
+  }
